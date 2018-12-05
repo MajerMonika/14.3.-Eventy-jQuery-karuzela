@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#carousel {
+	width: 400px;
+	height: 300px;
+	margin: 50px auto;
+	border: 4px solid #555;
+	overflow: hidden;
+}
+
+ul {
+	width: 2000px;
+}
+
+li {
+  list-style-type: none;
+	float: left;
+}
+
